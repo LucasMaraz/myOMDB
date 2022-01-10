@@ -1,0 +1,26 @@
+[
+    {
+        "username": "Juan2362",
+        "email": "juan23@gmail.com",
+        "password": "juandeboca",
+        "favoritesId": [568124, 624860, 438695]
+    }, 
+    {
+        "username": "EstebanRodriguez",
+        "email": "estebitan@gmail.com",
+        "password": "estebanelmascapo",
+        "favoritesId": [524434, 624860, 585245, 728526, 899082]
+    },
+    {
+        "username": "lukitas16",
+        "email": "lucas@gmail.com",
+        "password": "password",
+        "favoritesId": [268, 618353, 209112, 414906, 324849]
+    },
+    {
+        "username": "leo62",
+        "email": "leo@gmail.com",
+        "password": "leonardo123",
+        "favoritesId": [1927, 624860, 15257, 26881]
+    }
+]
